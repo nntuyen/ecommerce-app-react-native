@@ -1,0 +1,3 @@
+rootProject.name = 'EcommerceAppReactNative'
+
+include ':app'
